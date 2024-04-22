@@ -1,3 +1,0 @@
-interface TransactionInterface {
-    void execute();
-}
